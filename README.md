@@ -12,13 +12,21 @@ Import my programs via the "LOAD" button and go!
 
 And to better understand the commands, read this [documentation](https://www.peterhigginson.co.uk/AQA/info.html)
 
-## Fibonnaci Sequence
+## [Fibonnaci Sequence](https://github.com/4strium/ARM-Assembly/blob/main/Sequence_Fibonacci.asm)
+
+```sh
+Sequence_Fibonacci.asm
+```
 [Here](https://bit.ly/3LO3lgW) is a pdf report of the code (in French)
 - Program that calculates the sequence of "n" numbers (given in input) of the Fibonacci sequence by saving them from memory address 100.
 - Registers R0, R1 and R2 are the registers used for the calculations of the sequence and whose results are directly stored in the memory by the command “STR”.
 - Register R3 is the memory address counter, it starts at address 102 because there are first 0 and 1 which are the starting values of the registers.  
 
-## Adder Sequence
+## [Adder Sequence](https://github.com/4strium/ARM-Assembly/blob/main/Sequence_Adder.asm)
+
+```sh
+Sequence_Adder.asm
+```
 [Here](https://bit.ly/3DRLQJY) is a complete report in pdf of the code (in French).
 - Program that calculate the sum of the first n integers (1+2+3+4+5+...+n)
 
