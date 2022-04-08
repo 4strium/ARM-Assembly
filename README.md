@@ -8,6 +8,8 @@
 
 I advise to use the [AQA Assembly Language Simulator by Peter Higginson](https://www.peterhigginson.co.uk/AQA/)
 
+Import my programs via the "LOAD" button and go!
+
 And to better understand the commands, read this [documentation](https://www.peterhigginson.co.uk/AQA/info.html)
 
 ## Fibonnaci Sequence
