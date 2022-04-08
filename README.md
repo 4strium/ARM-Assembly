@@ -1,12 +1,13 @@
 # ARM Assembly
 - [Arm Assembly](https://github.com/4strium/ARM-Assembly#arm-assembly)
-    - [Viewing and Use](https://github.com/4strium/ARM-Assembly#arm-assembly)
-    -  [Fibonnaci Sequence](https://github.com/4strium/ARM-Assembly#arm-assembly)
-    -  [Adder Sequence](https://github.com/4strium/ARM-Assembly#arm-assembly)
+    - [Viewing and Use](https://github.com/4strium/ARM-Assembly#viewing-and-use)
+    -  [Fibonnaci Sequence](https://github.com/4strium/ARM-Assembly#fibonnaci-sequence)
+    -  [Adder Sequence](https://github.com/4strium/ARM-Assembly#adder-sequence)
 
 ## Viewing and Use
 
 I advise to use the [AQA Assembly Language Simulator by Peter Higginson](https://www.peterhigginson.co.uk/AQA/)
+
 And to better understand the commands, read this [documentation](https://www.peterhigginson.co.uk/AQA/info.html)
 
 ## Fibonnaci Sequence
